@@ -28,3 +28,9 @@ target/
 
 # Ignore all files which ends with lock
 *.lock
+
+
+privateKey.pem
+xero2bkper.iml
+xeroApi.properties
+.idea
